@@ -1,3 +1,8 @@
+# spell:disable
+
+.vscode/
+
 .venv/
+
 dev/
 utils/
